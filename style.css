@@ -5,3 +5,22 @@
 .btn-color {
   background-color: #ffe400;
 }
+
+.fa-search {
+  font-size: 23px;
+}
+
+.fs {
+  color: rgb(20, 20, 20);
+  font-size: 16px;
+  padding: 7px;
+}
+
+a {
+  color: #000;
+}
+
+a:hover {
+  color: #f72210;
+}
+
