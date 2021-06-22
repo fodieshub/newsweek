@@ -1,7 +1,7 @@
-.custom-color {
-  background-color: #f72210;
-}
-
-.btn-color {
+#headerbtn{
+  border-radius: 40px;
   background-color: #ffe400;
+}
+a{
+  text-decoration: none;
 }
