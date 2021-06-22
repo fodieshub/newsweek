@@ -1,7 +1,11 @@
 #headerbtn{
   border-radius: 40px;
   background-color: #ffe400;
+  font-size: 19px;
 }
 a{
   text-decoration: none;
+}
+.log{
+  font-size: 19px;
 }
