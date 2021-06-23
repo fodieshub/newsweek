@@ -13,6 +13,9 @@ nav{
   background-color: #f72210;
 }
 
-/* body{
-  background-color: aqua;
-} */
+body{
+  background-color: #f4f5f6;
+}
+#main-section{
+  background-color: #fff;
+}
