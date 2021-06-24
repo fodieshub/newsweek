@@ -25,16 +25,15 @@ body{
 h6{
   color: #03030366;
 }
-#firstcol{
-  width: 27%;
-}
+/* #firstcol{
+  width: 29%;
+} */
 .biden{
   width: 100%;
-  height: inherit;
 }
-#secondcol{
+/* #secondcol{
   width: 40%;
 }
 #thirdcol{
-  width: 32%;
-}
+  width: 31%;
+} */
