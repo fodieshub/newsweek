@@ -31,9 +31,13 @@ h6{
 .biden{
   width: 100%;
 }
-/* #secondcol{
+ /* #secondcol{
   width: 40%;
-}
-#thirdcol{
-  width: 31%;
 } */
+/* #thirdcol{
+  width: 31%;
+}  */
+.round-cir{
+  width: 70px;
+  height: 70px;
+}
