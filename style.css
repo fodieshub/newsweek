@@ -26,19 +26,21 @@ h6{
   color: #03030366;
 }
 /* #firstcol{
-  width: 29%;
+  width: 30%;
 } */
 .biden{
   width: 100%;
 }
  /* #secondcol{
   width: 40%;
-} */
-/* #thirdcol{
-  width: 31%;
+}
+#thirdcol{
+  width: 30%;
 }  */
 .round-cir{
   width: 70px;
   height: 70px;
 }
-
+.p-title{
+  color: #000;
+}
