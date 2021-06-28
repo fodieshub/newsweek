@@ -12,7 +12,9 @@ a{
 nav{
   background-color: #f72210;
 }
-
+.newfont{
+  font-size: 1.5rem;
+}
 body{
   background-color: #f4f5f6;
 }
@@ -25,18 +27,9 @@ body{
 h6{
   color: #03030366;
 }
-/* #firstcol{
-  width: 30%;
-} */
 .biden{
   width: 100%;
 }
- /* #secondcol{
-  width: 40%;
-}
-#thirdcol{
-  width: 30%;
-}  */
 .round-cir{
   width: 70px;
   height: 70px;
@@ -44,6 +37,6 @@ h6{
 .p-title{
   color: #000;
 }
-.mid-img{
-  height: 130px;
+.my-co{
+   color: #333333;
 }
