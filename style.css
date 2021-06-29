@@ -40,3 +40,10 @@ h6{
 .my-co{
    color: #333333;
 }
+.third-cont{
+  width: 95px;
+  height: 95px;
+}
+.inner-line{
+  line-height: 1.2;
+}
