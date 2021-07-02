@@ -1,3 +1,9 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
 #headerbtn{
   border-radius: 40px;
   background-color: #ffe400;
@@ -46,4 +52,10 @@ h6{
 }
 .inner-line{
   line-height: 1.2;
+}
+.btn-color{
+  background-color: #f72210;
+}
+.txt-color{
+  color: #f72210;
 }
